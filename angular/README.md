@@ -2,7 +2,7 @@
 
 1. **I understand the structure of an Angular application**
 
-    ![Angular structure](/images/angular_structure.PNG)
+    ![Angular structure](images/angular_structure.PNG)
     
     An Angular application is made up of a series of files and folders.  
     I would like to talk about the following:  
@@ -22,7 +22,7 @@
 3. **I can create a new Angular application using Angular CLI**
 
     3.1 ``ng new ttAngular``  
-    ![ng new ttAngular](/images/ng_new_ttAngular.PNG)
+    ![ng new ttAngular](images/ng_new_ttAngular.PNG)
 
     The command above is used to create a new Angular application by name _ttAngular_
 
