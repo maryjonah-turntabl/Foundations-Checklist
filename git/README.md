@@ -32,7 +32,7 @@
 2. **I can initialise Git repositories**
 
     2.1 ``git init``  
-    ![git init output](/images/git_init.PNG)
+    ![git init output](images/git_init.PNG)
 
     Is used to initialize a repository.  
     It creates a _.git_ hidden folder.
@@ -42,7 +42,7 @@
 3. **I can create a new branch and check it out**
 
     3.1 ``git checkout -b ttlab1Branch``  
-    ![git checkout -b ttLab1 output](/images/git_checkout_b.PNG)
+    ![git checkout -b ttLab1 output](images/git_checkout_b.PNG)
 
     A combination of the commands ``checkout`` and ``b`` to create a new branch.  
     And the command switches the current user to now work and save changes in the new branch.
@@ -53,14 +53,14 @@
 
     4.1 ``git add ttLabFile.txt`` adds the file ttLabFile.txt to the staging area  
     4.2 ``git commit -m "Q4"`` commits the file to the local repository  
-    ![git add & commit -m output](/images/git_add_commit_m.PNG)
+    ![git add & commit -m output](images/git_add_commit_m.PNG)
 
 
 
 5. **I can write meaningful commit messages that are useful for other developers** 
 
     5.1 _Answer Q4_, _Create component dashboard_, _Merge branch dev_  
-    ![git commit -m "Answer Q4"](/images/git_commit_m_answer_q4.PNG)
+    ![git commit -m "Answer Q4"](images/git_commit_m_answer_q4.PNG)
 
        5.1.1 Use imperative mood to write git messages.  
        5.1.2 Apply continue your messages to the phrase "If applied, this commit will ...." to check if it is meaningful.
@@ -70,7 +70,7 @@
 6. **I can push the changes committed to my local branch to the remote branch** 
 
     6.1 ``git push ``  
-    ![git push"](/images/git_push.PNG)
+    ![git push"](images/git_push.PNG)
 
     It send changes to the current branch ``git`` to its corresponding remote branch which assumes already exists.
 
@@ -79,7 +79,7 @@
 7. **I can check the status of my branch and understand the output**  
 
     7.1 ``git status``  
-    ![git status"](/images/git_status.PNG)  
+    ![git status"](images/git_status.PNG)  
 
     The output shows that the content of the file _README.md_ has changed.  
     The file has not been placed in the staging area.  
@@ -90,7 +90,7 @@
 8. **I can switch branches**
 
     8.1 ``git checkout main``  
-    ![git checkout main"](/images/git_checkout_main.PNG)  
+    ![git checkout main"](images/git_checkout_main.PNG)  
 
     It changes the branch from the current ``git`` to the default branch ``main``
 
