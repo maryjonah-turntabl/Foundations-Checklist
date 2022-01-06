@@ -31,7 +31,8 @@
 
 4. **I know which array methods mutate data and which ones don’t**
 
-    | Mutate Data | Does not mutate data  |   |
-    | :---:   | :-: | :-: |
-    | concat() | --- |  |
+    | Mutate Data        | Does not mutate data  |   |
+    | :---:    | :-:     | :-: |
+    | concat() | every() |  |
+    |          |         |  |
 
