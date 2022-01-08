@@ -42,4 +42,10 @@
     Any changes made in the code causes the application to be built again.
 
 
+5. **I understand the structure of an Angular component**  
+
+    The idea behind a component is creating a custom browser tag and adding functionality that says what it does.  
+    A component is made up of a decorator ``@Component`` and a class both which are defined in a **nameOfComponent.component.ts** file.  
+
+
 
