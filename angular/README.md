@@ -27,3 +27,19 @@
     The command above is used to create a new Angular application by name _ttAngular_
 
 
+4. **I can build and serve an Angular application using Angular CLI**  
+
+    4.1 ``ng build``  
+    ![ng build](images/ng_build.PNG)  
+
+    This command builds the application into the **dist** folder.  
+    Any changes made to the code after does not cause any change to the dist folder unless the ``ng build`` command is run again.
+
+    4.2 ``ng serve``  
+    ![ng serve](images/ng_serve.PNG)  
+
+    It starts your web browser and your application is available on the specified port (4200 by default).  
+    Any changes made in the code causes the application to be built again.
+
+
+
