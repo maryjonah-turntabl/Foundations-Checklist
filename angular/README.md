@@ -48,4 +48,12 @@
     A component is made up of a decorator ``@Component`` and a class both which are defined in a **nameOfComponent.component.ts** file.  
 
 
+6. **I can create components using Angular CLI**  
+
+    6.1 ``ng generate component q5component``  
+    ![ng serve](images/ng_serve.PNG)  
+
+    The command creates a component.  
+    A folder **q5component** is created under the **src/app** folder.  
+
 
