@@ -57,3 +57,16 @@
     A folder **q5component** is created under the **src/app** folder.  
 
 
+7. **I can use Property Binding to control the state of a button**  
+
+    In property binding, we need an HTML property, in our example **input's value property**.  
+    We surround it with the square brackets _[  ]_ and assign its value to a property we have defined in out ts file _boolTrue/boolFalse_
+    
+    7.1 _Inside component's ts file_  
+    ![q5component.component.ts](images/ng_property_build_component_ts.PNG)   
+
+    7.2 _Inside component's html file_  
+    ![q5component.component.html](images/ng_property_build_component_html.PNG)  
+
+    7.3 _In the web browser_  
+    ![In the web browser](images/ng_property_build_component_web_browser.PNG)            
