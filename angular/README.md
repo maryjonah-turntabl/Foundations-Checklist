@@ -82,11 +82,23 @@
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_ts.PNG" width="600" height="350">
 
     8.2 _Inside component's html file_  
-    <!-- ![q5component.component.html](images/ng_event_binding_button_html.PNG)  -->
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_html.PNG" width="600" height="100"> 
 
     8.3 _In the web browser_  
-    <!-- ![In the web browser](images/ng_event_binding_button_browser.PNG)   -->
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_browser.PNG" width="600" height="150">
 
 
+9. **I can use Text Interpolation to display the value of a component string variable on that component’s view**  
+
+    It is the use of the _{{}}_ to display dynamic content in an html page.  
+    The content to be displayed can be an Angular _property, method, array or an object_.  
+    They should be declared as public else they cannot be accessed inside the html file.  
+
+    9.1 _Inside component's ts file_  
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_text_interpolation_ts.PNG" width="600" height="550">
+
+    9.2 _Inside component's html file_  
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_text_interpolation_html.PNG" width="600" height="220">    
+
+    9.3 _In the web browser_  
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_text_interpolation_browser.PNG" width="600" height="360">
