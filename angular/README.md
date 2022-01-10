@@ -80,6 +80,7 @@
 
     8.1 _Inside component's ts file_  
     ![q5component.component.ts](images/ng_event_binding_button_ts.PNG)   
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_ts.PNG" width="600" height="200">
 
     8.2 _Inside component's html file_  
     ![q5component.component.html](images/ng_event_binding_button_html.PNG)  
