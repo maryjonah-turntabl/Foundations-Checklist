@@ -79,13 +79,14 @@
     The function also calls an alert window which displays the text _Thank you, your details have been saved_  
 
     8.1 _Inside component's ts file_  
-    ![q5component.component.ts](images/ng_event_binding_button_ts.PNG)   
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_ts.PNG" width="600" height="350">
 
     8.2 _Inside component's html file_  
-    ![q5component.component.html](images/ng_event_binding_button_html.PNG)  
+    <!-- ![q5component.component.html](images/ng_event_binding_button_html.PNG)  -->
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_html.PNG" width="600" height="200"> 
 
     8.3 _In the web browser_  
-    ![In the web browser](images/ng_event_binding_button_browser.PNG)  
+    <!-- ![In the web browser](images/ng_event_binding_button_browser.PNG)   -->
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_browser.PNG" width="600" height="250">
 
 
