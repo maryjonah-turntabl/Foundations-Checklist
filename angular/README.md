@@ -69,4 +69,22 @@
     ![q5component.component.html](images/ng_property_build_component_html.PNG)  
 
     7.3 _In the web browser_  
-    ![In the web browser](images/ng_property_build_component_web_browser.PNG)            
+    ![In the web browser](images/ng_property_build_component_web_browser.PNG)  
+
+
+8. **I can use Event Binding to invoke a function when a button is clicked**  
+
+    With Event Binding, one is able to call a function that executes when an HTML creates an event.  
+    In my example, anytime a user clicks on the _Submit_ button, the **clickSubmit()** function is called.  
+    The function also calls an alert window which displays the text _Thank you, your details have been saved_  
+
+    8.1 _Inside component's ts file_  
+    ![q5component.component.ts](images/ng_event_binding_button_ts.PNG)   
+
+    7.2 _Inside component's html file_  
+    ![q5component.component.html](images/ng_event_binding_button_html.PNG)  
+
+    7.3 _In the web browser_  
+    ![In the web browser](images/ng_event_binding_button_browser.PNG)  
+
+
