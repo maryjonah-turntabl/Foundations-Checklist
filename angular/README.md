@@ -102,3 +102,15 @@
 
     9.3 _In the web browser_  
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_text_interpolation_browser.PNG" width="600" height="360">
+
+
+10. **I understand the difference between Reactive Forms and Template-Driven Forms**  
+
+    _Reactive Forms_:  
+
+    
+
+    _Template-Driven Forms_:  
+    It uses the _FormsModule_ module in Angular.  
+    These types of forms make the directives _NgForm_ and _NgModel_ and their associated selectors: _ngForm_, _ngSubmit_, and _ngModel_ available and they are used to capture the information in the form.  
+    No additional imports are done in the component.ts file when one creates this kind of form.  
