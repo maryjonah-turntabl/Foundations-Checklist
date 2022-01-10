@@ -83,10 +83,10 @@
 
     8.2 _Inside component's html file_  
     <!-- ![q5component.component.html](images/ng_event_binding_button_html.PNG)  -->
-    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_html.PNG" width="600" height="200"> 
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_html.PNG" width="600" height="100"> 
 
     8.3 _In the web browser_  
     <!-- ![In the web browser](images/ng_event_binding_button_browser.PNG)   -->
-    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_browser.PNG" width="600" height="250">
+    <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_event_binding_button_browser.PNG" width="600" height="150">
 
 
