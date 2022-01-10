@@ -81,10 +81,10 @@
     8.1 _Inside component's ts file_  
     ![q5component.component.ts](images/ng_event_binding_button_ts.PNG)   
 
-    7.2 _Inside component's html file_  
+    8.2 _Inside component's html file_  
     ![q5component.component.html](images/ng_event_binding_button_html.PNG)  
 
-    7.3 _In the web browser_  
+    8.3 _In the web browser_  
     ![In the web browser](images/ng_event_binding_button_browser.PNG)  
 
 
