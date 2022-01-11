@@ -107,6 +107,8 @@
 10. **I understand the difference between Reactive Forms and Template-Driven Forms**  
 
     _Reactive Forms_:  
+    Reactive Forms use the _ReactiveFormsModule_ in Angular.
+    One has to apply the directive _formGroup_ and _formControl_ to the form and input elements in the html file since ngForm which would otherwise have automatically created a _FormGroup_ and _ngControl_ which also would have automatically created _FormControl_ is not applied when one is using ReactiveForm.
 
     
 
