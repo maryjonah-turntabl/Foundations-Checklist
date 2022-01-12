@@ -45,10 +45,26 @@
 
 5. **I understand the structure of an Angular component**  
 
-    The idea behind a component is creating a custom browser tag and adding functionality that says what it does.  
-    A component is made up of a decorator ``@Component`` and a class both which are defined in a **nameOfComponent.component.ts** file.  
+    An Angular component is a JavaScript class that provides data to the view.    
+    Many components come together to create the full UI displayed in the browser.   
+
+    It is made up of 3 parts:  
+    - Imports:   
+    ![angular component structure imports](images/angular_component_structure_import.PNG)  
+    This section imports the required libraries that would be useful in the class.  
+
+    - Metadata:  
+    ![angular component structure metadata](images/angular_component_structure_metadata.PNG)  
+    It provides additional information about the component.  
+     _@Component_ decorator is used to identify it.  
+
+    - Class:  
+    ![angular component structure class](images/angular_component_structure_class.PNG)  
+    Made up of TypeScript/JavaScript code that provides the logic for the data displayed in the template.  
 
 
+    An Angular component is usually stored as _nameOfComponent.component.ts_ file
+    
 6. **I can create components using Angular CLI**  
 
     6.1 ``ng generate component q5component``  
