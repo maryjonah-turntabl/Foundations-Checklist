@@ -108,8 +108,9 @@
 9. **I can use Text Interpolation to display the value of a component string variable on that component’s view**  
 
     It is the use of the _{{}}_ to display dynamic content in an html page.  
-    The content to be displayed can be an Angular _property, method, array or an object_.  
-    They should be declared as public else they cannot be accessed inside the html file.  
+    The data contained within the curly braces is referred to as a _template expression_.   
+    This is a one-way data binding technique, where data is sent from the component to the view and cannot be the other way round.  
+    The template expression can be an Angular _property, method, array or an object_.  
 
     9.1 _Inside component's ts file_  
     <img src="https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/angular/images/ng_text_interpolation_ts.PNG" width="600" height="550">
