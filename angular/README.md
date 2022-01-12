@@ -32,14 +32,15 @@
     4.1 ``ng build``  
     ![ng build](images/ng_build.PNG)  
 
-    This command builds the application into the **dist** folder.  
+    This command builds and saves the output to the **dist** folder.  
     Any changes made to the code after does not cause any change to the dist folder unless the ``ng build`` command is run again.
 
     4.2 ``ng serve``  
     ![ng serve](images/ng_serve.PNG)  
 
-    It starts your web browser and your application is available on the specified port (4200 by default).  
-    Any changes made in the code causes the application to be built again.
+    The application is built and the output is saved to memory while the server is started.  
+    This allows one to view the application on a web browser and it is available on port 4200 by default.  
+    Any changes made in the code causes the application to be built again.  
 
 
 5. **I understand the structure of an Angular component**  
