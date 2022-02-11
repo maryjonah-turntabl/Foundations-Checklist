@@ -1,0 +1,67 @@
+<div class="container mt-4 w-50">
+  <div class="card">
+
+    <div class="card-header text-center">
+      Registration Form
+    </div>
+
+    <div class="card-body">
+
+      <form #contactForm="ngForm" (ngSubmit)="onSubmit()" novalidate>
+        <div *ngIf="showMsg">
+          <p class="alert alert-success">Registration successful</p>
+        </div>
+        
+        <div class="form-group py-3">
+          <label for="firstname">First Name:</label>
+          <input type="text" class="form-control" name="firstname" id="firstname" #firstname="ngModel"
+            [(ngModel)]="contact.firstname" required minlength="2">
+        </div>
+
+        <div *ngIf="!firstname.valid && (firstname.dirty || firstname.touched)" class="text-danger">
+          <div *ngIf="firstname.errors.required" >First Name is required</div>
+          <div *ngIf="firstname.errors.minlength">First Name should be more than 1 character</div>
+        </div>
+
+
+        <div class="form-group py-3">
+          <label for="lastname">Last Name:</label>
+          <input type="text" class="form-control" name="lastname" id="lastname" #lastname="ngModel"
+            [(ngModel)]="contact.lastname" required maxlength="15" pattern="^[a-zA-Z]+$">
+        </div>
+
+        <div *ngIf="!lastname.valid && (lastname.dirty || lastname.touched)" class="text-danger">
+          <div *ngIf="lastname.errors.required">Last Name is Required</div>
+          <div *ngIf="lastname.errors.pattern">Only characters allowed</div>
+        </div>
+
+        <div class="form-group py-3">
+          <label for="email">Email:</label>
+          <input type="email" class="form-control" name="email" did="email" #email="ngModel" [(ngModel)]="contact.email"
+            required email>
+        </div>
+
+        <div *ngIf="!email?.valid && (email?.dirty || email?.touched)" class="text-danger">
+          <div *ngIf="email.errors.email">Invalid Email</div>
+          <div *ngIf="email.errors.required">Email Required</div>
+        </div>
+
+        <div class="form-checked">
+          <input type="checkbox" class="form-check-input" name="isToc" #isToc="ngModel" [(ngModel)]="contact.isToc"
+            required> &nbsp;
+          <label for="isToc">Accept ToC </label>
+        </div>
+
+        <div *ngIf="!isToc?.valid && (isToc?.dirty || isToc?.touched)" class="text-danger">
+          <div *ngIf="isToc.errors.required">Please accept the terms of service</div>
+        </div>
+
+        <div class="form-group text-center">
+          <button type="submit" class="btn btn-primary" [disabled]="!contactForm.valid">Submit</button>
+        </div>
+      </form>
+    </div>
+
+  </div>
+  
+</div>
