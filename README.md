@@ -2,6 +2,10 @@
 A repo to track ttlabs Foundations Checklist
 
 ## Performance Booster  
+- Meeting 2 (Algorithms and Data Structures):  
+    - [I can assess algorithmic complexity (time)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/algorithms_and_data_structures/algorithm_complexity)
+
+
 - Meeting 1 (Angular):  
     - [I understand the difference between Reactive Forms and Template-Driven Forms](https://docs.google.com/presentation/d/1QuPzve_DjtqonZyK7E3vfJOSWkWuT94YOLwia7Cm8DM/edit?usp=sharing)
     - I can create a Template-Driven Form with a single input element and show how input changes lead to updates to the associated data model in the component and vice versa
@@ -9,11 +13,6 @@ A repo to track ttlabs Foundations Checklist
         - Using Reactive forms
 
 <hr/>   
-
-- Meeting 2 (Algorithms and Data Structures):  
-    - [I I can assess algorithmic complexity (time and space)](https://docs.google.com/presentation/d/1QuPzve_DjtqonZyK7E3vfJOSWkWuT94YOLwia7Cm8DM/edit?usp=sharing)
-
-
 
 
 1. [Version Control with Git](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/git)  
