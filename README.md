@@ -8,7 +8,13 @@ A repo to track ttlabs Foundations Checklist
         - [Using Template-driven forms (includes form validation)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/performance_booster/angular/tdf)
         - Using Reactive forms
 
-<hr/>        
+<hr/>   
+
+- Meeting 2 (Algorithms and Data Structures):  
+    - [I I can assess algorithmic complexity (time and space)](https://docs.google.com/presentation/d/1QuPzve_DjtqonZyK7E3vfJOSWkWuT94YOLwia7Cm8DM/edit?usp=sharing)
+
+
+
 
 1. [Version Control with Git](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/git)  
 2. [Angular](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/angular)  
