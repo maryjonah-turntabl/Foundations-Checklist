@@ -4,6 +4,8 @@ In this kata, you've to count lowercase letters in a given string and return the
 
 ### Solution  
 **Time Complexity = O(N)**
+**Space Complexity = O(N)**
+
 
 ```
 function letterCount(s){
@@ -52,6 +54,8 @@ welsh: 'Croeso'
 
 ### Solution  
 **Time Complexity = O(1)**
+**Space Complexity = O(1)**
+
 
 ```
 function greet(language) {
@@ -78,6 +82,8 @@ The input string will only consist of lower case letters and/or spaces.
 
 ### Solution  
 **Time Complexity = O(N<sup>2</sup>)**  
+**Space Complexity = O(1)**
+
 
 ```
 function getCount(str) {
