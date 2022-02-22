@@ -1,45 +1,40 @@
-### Control Flow   
-### if:  
-The code below runs and displays _This block of code is running_ because the condition specified is true
+## Control Flow   
+### Count-controlled Loop 
+_for_: Print "I am happy" 5 times  
 ```
-var value = true;
-if(value) {
-  console.log("This block of code is running");
+for (let i = 0; i < 5; i++) {
+  console.log("I am happy")
 }
 ```
 
-### if-else:  
-In the code above, when the statement is false, the code execution ends.  
-But with _if-else_ statement, if the condition is false, code in _else_ block runs
-
+### Condition-controlled Loop 
+_while_: Count down from 5 to 1  
 ```
-var value = false;
-if(value) {
-  console.log("I will not run because I am true");
-} else {
-  console.log("My block runs because");
+let number = 5;
+
+while (number > 0) {
+  console.log(number);
+  number--;
 }
 ```
-### switch:  
-The statement compares the value in the variable to the cases defined in each _case_.  
-If a case matches, the code associated executes.  
-If it does not, then the code in _default_ block runs.
+_do-while_: Prints 5 once and ends the execution of the loop  
 
 ```
-var favoriteFruit = "Orange"
+let counter = 5;
 
-switch(favoriteFruit) {
-  case "Grapes":
-    console.log("Grapes fruit here");
-    break;
-  case "Pineapple":
-    console.log("Pina pineapple here");
-    break;
-  case "Orange":
-    console.log("Orango orange");
-    break;
-  default:
-    console.log("Neither grapes, pineapple, nor orange");
+do {
+   console.log(counter)
+   counter++;
+} while (counter < 2)
+```
+
+### Collection-controlled Loop 
+_for...in_: Prints the key and value pair in the person object
+```
+const person = {fname:"John", lname:"Doe", age:25};
+
+for (let x in person) {
+  console.log("Key is: " + x);
+  console.log("Value is: " + person[x]);
 }
 ```
-
