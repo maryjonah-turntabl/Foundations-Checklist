@@ -3,7 +3,12 @@ A repo to track ttlabs Foundations Checklist
 
 ## Performance Booster  
 - Meeting 2 (Algorithms and Data Structures):  
-    - [I can assess algorithmic complexity (time)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/algorithms_and_data_structures/algorithm_complexity)
+    - [I understand the basic data structures (e.g. array, linked list, hash table, queue, stack, tree…)](https://docs.google.com/presentation/d/1pw2t-ecY30r-3nHSL-n3R5JF_5wxBcrLwumvPzGm8cY/edit?usp=sharing)  
+    - [I can pick the right data structures when solving a given problem](https://docs.google.com/presentation/d/1pw2t-ecY30r-3nHSL-n3R5JF_5wxBcrLwumvPzGm8cY/edit#slide=id.g114900770c6_0_10)  
+    - [I can assess algorithmic complexity (time)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/algorithms_and_data_structures/algorithm_complexity)  
+    - [I understand basic control flows (e.g. choice [if-then-else, case/switch], loops [count-controlled, condition-controlled, collection-controlled])](https://docs.google.com/presentation/d/1_m_wGvT3nezSSuum76vf80_28oVBKPf_7P-S0mqka0s/edit?usp=sharing)  
+    - [I can write control flows using control structures provided by the programming languages I’m familiar with (e.g. Python -> “for element in elements…”)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/algorithms_and_data_structures/control_flow)  
+
 
 
 - Meeting 1 (Angular):  
