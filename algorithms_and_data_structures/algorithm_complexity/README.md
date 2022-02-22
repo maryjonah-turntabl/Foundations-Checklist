@@ -1,5 +1,6 @@
 ### Hash Table   
-Q1: In this kata, you've to count lowercase letters in a given string and return the letter count in a hash with 'letter' as key and count as 'value'. The key must be 'symbol' instead of string in Ruby and 'char' instead of string in Crystal.
+### Q1:  
+In this kata, you've to count lowercase letters in a given string and return the letter count in a hash with 'letter' as key and count as 'value'. The key must be 'symbol' instead of string in Ruby and 'char' instead of string in Crystal.
 
 ### Solution  
 **Time Complexity = O(N)**
@@ -23,7 +24,8 @@ function letterCount(s){
 
 ```
 
-Q2: Your start-up's BA has told marketing that your website has a large audience in Scandinavia and surrounding countries. Marketing thinks it would be great to welcome visitors to the site in their own language. Luckily you already use an API that detects the user's location, so this is an easy win.  
+### Q2:    
+Your start-up's BA has told marketing that your website has a large audience in Scandinavia and surrounding countries. Marketing thinks it would be great to welcome visitors to the site in their own language. Luckily you already use an API that detects the user's location, so this is an easy win.  
 
 **The Task**  
 Think of a way to store the languages as a database (eg an object). The languages are listed below so you can copy and paste!
