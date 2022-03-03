@@ -3,7 +3,9 @@
 In this kata, you've to count lowercase letters in a given string and return the letter count in a hash with 'letter' as key and count as 'value'. The key must be 'symbol' instead of string in Ruby and 'char' instead of string in Crystal.
 
 ### Solution  
-**Time Complexity = O(N)**
+**Time Complexity = O(N)**  
+**Space Complexity = O(N)**  
+
 
 ```
 function letterCount(s){
@@ -51,7 +53,9 @@ swedish: 'Valkommen',
 welsh: 'Croeso'  
 
 ### Solution  
-**Time Complexity = O(1)**
+**Time Complexity = O(1)**  
+**Space Complexity = O(1)**  
+
 
 ```
 function greet(language) {
@@ -77,7 +81,9 @@ We will consider a, e, i, o, u as vowels for this Kata (but not y).
 The input string will only consist of lower case letters and/or spaces.
 
 ### Solution  
-**Time Complexity = O(N<sup>2</sup>)**  
+**Time Complexity = O(N<sup>2</sup>)**   
+**Space Complexity = O(1)**  
+
 
 ```
 function getCount(str) {
