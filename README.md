@@ -11,6 +11,8 @@ A repo to track ttlabs Foundations Checklist
   - [I understand the Liskov Substitution Principle ](https://docs.google.com/presentation/d/1M8SOnzX9_NRi0RhI0jRzNDFD7M0BxnTlzdzVG-XwGro/edit#slide=id.g117c3d8514a_0_12)
   - [I understand the Interface Segregation Principle ](https://docs.google.com/presentation/d/1M8SOnzX9_NRi0RhI0jRzNDFD7M0BxnTlzdzVG-XwGro/edit#slide=id.g117c3d8514a_0_18)
   - I understand the Dependency Inversion Principle
+  - I can create code samples that illustrate each one of the SOLID Principles in an OOP language of my choice
+    - [Single Responsibility Principle]()
 
 - Meeting 2 (Algorithms and Data Structures):
 
