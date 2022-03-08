@@ -14,7 +14,7 @@ A repo to track ttlabs Foundations Checklist
   - I can create code samples that illustrate each one of the SOLID Principles in an OOP language of my choice
     - [Single Responsibility Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/Bank.java)
     - [Open-Closed Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/RetailCustomer.java)
-    - [Liskov Substitution Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/RetailCustomer.java)
+    - [Liskov Substitution Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/Animal.java)
 
 - Meeting 2 (Algorithms and Data Structures):
 
