@@ -56,10 +56,28 @@ let currentDay = "Monday";
 let excitementLevel = 0;
 
 if (currentDay == "Monday") {
-  excitementLevel = "5";
+  excitementLevel = 5;
 } else if (currentDay == "Tuesday") {
   excitementLevel = 7;
 } else {
   excitementLevel = 10;
+}
+```
+
+_case...switch_: Runs a block of code based on which case returns true
+
+```
+let currentDay = "Monday";
+let excitementLevel = 0;
+
+switch(currentDay) {
+  case 'Monday':
+    excitementLevel = 5;
+    break;
+  case 'Tuesday':
+    excitementLevel = 7;
+    break;
+  default:
+    excitementLevel = 10
 }
 ```
