@@ -15,6 +15,7 @@ A repo to track ttlabs Foundations Checklist
     - [Single Responsibility Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/Bank.java)
     - [Open-Closed Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/RetailCustomer.java)
     - [Liskov Substitution Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/Animal.java)
+    - [Interface Segregation Principle](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Concepts/src/io/turntabl/foundations/checklist/oop/Customer.java)
 
 - Meeting 2 (Algorithms and Data Structures):
 
