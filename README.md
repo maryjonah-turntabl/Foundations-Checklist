@@ -34,7 +34,7 @@ A repo to track ttlabs Foundations Checklist
 
 - Meeting 4 (Advent of Code, Day 02):
   - [Question](https://adventofcode.com/2021/day/2)
-  - [Answer]()
+  - [Answer](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/Advent%20of%20Code/Meeting%204/2021_Day_02.py)
 
 <hr/>
 
