@@ -4,6 +4,23 @@ A repo to track ttlabs Foundations Checklist
 
 ## Performance Booster
 
+- Advent Of Code (Wednesday, 13th April 2022)
+
+  - 2019
+
+    - [Day 1]()
+    - [Day 2]()
+
+  - 2020
+
+    - [Day 1]()
+    - [Day 2]()
+
+- Meeting 4 (Advent of Code, Day 02):
+
+  - [Question](https://adventofcode.com/2021/day/2)
+  - [Answer](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/Advent%20of%20Code/Meeting%204/2021_Day_02.py)
+
 - Meeting 3 (Object-Oriented Programming):
 
   - [I understand the Single Responsibility Principle ](https://docs.google.com/presentation/d/1M8SOnzX9_NRi0RhI0jRzNDFD7M0BxnTlzdzVG-XwGro/edit#slide=id.g103f5cbdcca_4_20)
@@ -31,10 +48,6 @@ A repo to track ttlabs Foundations Checklist
   - I can create a Template-Driven Form with a single input element and show how input changes lead to updates to the associated data model in the component and vice versa
     - [Using Template-driven forms (includes form validation)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/performance_booster/angular/tdf)
     - Using Reactive forms
-
-- Meeting 4 (Advent of Code, Day 02):
-  - [Question](https://adventofcode.com/2021/day/2)
-  - [Answer](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/Advent%20of%20Code/Meeting%204/2021_Day_02.py)
 
 <hr/>
 
