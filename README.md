@@ -7,16 +7,19 @@ A repo to track ttlabs Foundations Checklist
 - Meeting 7 (Codewars):
 
   - [extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071/java)
-  - [Solution](https://adventofcode.com/2021/day/2)
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/CodeWars/ExtractFileName.java)
 
   - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/java)
-  - [Solution](https://adventofcode.com/2021/day/2)
+
+    - [Solution](Checklist/blob/main/CodeWars/CamelCase.java)
 
   - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/java)
-  - [Solution](https://adventofcode.com/2021/day/2)
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/CodeWars/EqualSidesArray.java)
 
   - [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/java)
-  - [Solution](https://adventofcode.com/2021/day/2)
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/CodeWars/LengthOfMissingArray.java)
 
 - [Advent of Code (Wednesday, 13th April 2022)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/Advent%20of%20Code/AdventOfCode-13th_April)
 
