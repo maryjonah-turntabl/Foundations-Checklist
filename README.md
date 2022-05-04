@@ -12,7 +12,7 @@ A repo to track ttlabs Foundations Checklist
 
   - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/java)
 
-    - [Solution](Checklist/blob/main/CodeWars/CamelCase.java)
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/CodeWars/CamelCase.java)
 
   - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/java)
 
