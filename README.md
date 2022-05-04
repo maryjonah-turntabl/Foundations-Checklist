@@ -4,6 +4,20 @@ A repo to track ttlabs Foundations Checklist
 
 ## Performance Booster
 
+- Meeting 7 (Codewars):
+
+  - [extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071/java)
+  - [Solution](https://adventofcode.com/2021/day/2)
+
+  - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/java)
+  - [Solution](https://adventofcode.com/2021/day/2)
+
+  - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/java)
+  - [Solution](https://adventofcode.com/2021/day/2)
+
+  - [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/java)
+  - [Solution](https://adventofcode.com/2021/day/2)
+
 - [Advent of Code (Wednesday, 13th April 2022)](https://github.com/maryjonah-turntabl/Foundations-Checklist/tree/main/Advent%20of%20Code/AdventOfCode-13th_April)
 
 - Meeting 4 (Advent of Code, Day 02):
