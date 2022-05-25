@@ -4,6 +4,27 @@ A repo to track ttlabs Foundations Checklist
 
 ## Performance Booster
 
+- Python OOP Meeting with Ana:
+
+  - I understand the Single Responsibility Principle
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/single_responsiblity.py)
+
+  - I understand the Open-Closed Principle
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/open_closed.py)
+
+  - I understand the Liskov Substitution Principle
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/liskov_substitution.py)
+
+  - I understand the Interface Segregation Principle
+
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/interface_segregation.py)
+
+  - I understand the Dependency Inversion Principle
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/dependency_inversion.py)
+
 - Meeting 7 (Codewars):
 
   - [extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071/java)
