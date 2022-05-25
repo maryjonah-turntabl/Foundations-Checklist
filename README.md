@@ -8,7 +8,7 @@ A repo to track ttlabs Foundations Checklist
 
   - I understand the Single Responsibility Principle
 
-    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/single_responsiblity.py)
+    - [Solution](https://github.com/maryjonah-turntabl/Foundations-Checklist/blob/main/OOP_Python/single_responsibility.py)
 
   - I understand the Open-Closed Principle
 
